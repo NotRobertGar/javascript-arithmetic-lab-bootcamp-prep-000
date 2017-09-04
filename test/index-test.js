@@ -53,3 +53,5 @@ describe('preserveDecimal(n)', function() {
   })
 })
 
+console.log (a);
+console.log (b);
